@@ -5,7 +5,8 @@ Araba Markası Opel in websitesi (kısmen klonlama)
 
 ![Ekran görüntüsü 2024-02-19 001435](https://github.com/MertOzturk06/OPEL/assets/158810197/65d934af-24f5-409f-9c80-ede1010eb061)
 
-![Uploading Ekran görüntüsü 2024-02-19 001607.png…]()
+![Ekran görüntüsü 2024-02-19 001607](https://github.com/MertOzturk06/OPEL/assets/158810197/e02c5bb9-4c78-42ba-80aa-fadea0e24762)
+
 
 
 
